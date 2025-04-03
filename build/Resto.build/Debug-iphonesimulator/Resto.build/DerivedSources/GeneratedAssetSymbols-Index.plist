@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing1</string>
+			<key>relativePath</key>
+			<string>./listing-1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing2</string>
+			<key>relativePath</key>
+			<string>./listing-2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing3</string>
+			<key>relativePath</key>
+			<string>./listing-3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing4</string>
+			<key>relativePath</key>
+			<string>./listing-4.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing4</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
