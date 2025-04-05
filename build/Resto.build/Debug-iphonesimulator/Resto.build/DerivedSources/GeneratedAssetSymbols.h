@@ -18,4 +18,7 @@ static NSString * const ACImageNameListing3 AC_SWIFT_PRIVATE = @"listing-3";
 /// The "listing-4" asset catalog image resource.
 static NSString * const ACImageNameListing4 AC_SWIFT_PRIVATE = @"listing-4";
 
+/// The "male-profile" asset catalog image resource.
+static NSString * const ACImageNameMaleProfile AC_SWIFT_PRIVATE = @"male-profile";
+
 #undef AC_SWIFT_PRIVATE

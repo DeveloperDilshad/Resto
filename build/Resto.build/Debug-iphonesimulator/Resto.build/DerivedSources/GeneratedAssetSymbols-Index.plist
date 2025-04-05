@@ -46,6 +46,16 @@
 			<key>swiftSymbol</key>
 			<string>listing4</string>
 		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMaleProfile</string>
+			<key>relativePath</key>
+			<string>./male-profile.imageset</string>
+			<key>swiftSymbol</key>
+			<string>maleProfile</string>
+		</dict>
 	</array>
 	<key>symbols</key>
 	<array/>

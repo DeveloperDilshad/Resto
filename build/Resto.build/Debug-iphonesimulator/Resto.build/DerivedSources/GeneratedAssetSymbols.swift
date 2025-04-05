@@ -43,6 +43,9 @@ extension DeveloperToolsSupport.ImageResource {
     /// The "listing-4" asset catalog image resource.
     static let listing4 = DeveloperToolsSupport.ImageResource(name: "listing-4", bundle: resourceBundle)
 
+    /// The "male-profile" asset catalog image resource.
+    static let maleProfile = DeveloperToolsSupport.ImageResource(name: "male-profile", bundle: resourceBundle)
+
 }
 
 // MARK: - Color Symbol Extensions -
@@ -118,6 +121,15 @@ extension AppKit.NSImage {
 #endif
     }
 
+    /// The "male-profile" asset catalog image.
+    static var maleProfile: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .maleProfile)
+#else
+        .init()
+#endif
+    }
+
 }
 #endif
 
@@ -157,6 +169,15 @@ extension UIKit.UIImage {
     static var listing4: UIKit.UIImage {
 #if !os(watchOS)
         .init(resource: .listing4)
+#else
+        .init()
+#endif
+    }
+
+    /// The "male-profile" asset catalog image.
+    static var maleProfile: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .maleProfile)
 #else
         .init()
 #endif

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/dilshadp/Resto/Resto/Core/Explore/SearchAndFilterBar.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Where to?",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Anywhere - Any Week - Add guests",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 20
+        }
+      }
+    ]
+  },
+  "version": 1
+}
