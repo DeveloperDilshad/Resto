@@ -7,7 +7,7 @@
         "key": "Miami Villa",
         "location": {
           "startingColumn": 22,
-          "startingLine": 26
+          "startingLine": 47
         }
       },
       {
@@ -15,7 +15,7 @@
         "key": "Miami Florida",
         "location": {
           "startingColumn": 26,
-          "startingLine": 46
+          "startingLine": 67
         }
       },
       {
@@ -23,7 +23,7 @@
         "key": "4.86",
         "location": {
           "startingColumn": 30,
-          "startingLine": 34
+          "startingLine": 55
         }
       },
       {
@@ -31,7 +31,7 @@
         "key": " - ",
         "location": {
           "startingColumn": 30,
-          "startingLine": 36
+          "startingLine": 57
         }
       },
       {
@@ -39,7 +39,7 @@
         "key": "28 reviews",
         "location": {
           "startingColumn": 30,
-          "startingLine": 38
+          "startingLine": 59
         }
       },
       {
@@ -47,7 +47,7 @@
         "key": "Entire Villa hosted by John Smith",
         "location": {
           "startingColumn": 26,
-          "startingLine": 58
+          "startingLine": 79
         }
       },
       {
@@ -55,7 +55,7 @@
         "key": "4 guests -",
         "location": {
           "startingColumn": 30,
-          "startingLine": 63
+          "startingLine": 84
         }
       },
       {
@@ -63,7 +63,7 @@
         "key": "4 bedrooms -",
         "location": {
           "startingColumn": 30,
-          "startingLine": 64
+          "startingLine": 85
         }
       },
       {
@@ -71,7 +71,7 @@
         "key": "4 beds -",
         "location": {
           "startingColumn": 30,
-          "startingLine": 65
+          "startingLine": 86
         }
       },
       {
@@ -79,7 +79,7 @@
         "key": "3 baths ",
         "location": {
           "startingColumn": 30,
-          "startingLine": 66
+          "startingLine": 87
         }
       },
       {
@@ -87,7 +87,7 @@
         "key": "Superhost",
         "location": {
           "startingColumn": 34,
-          "startingLine": 92
+          "startingLine": 113
         }
       },
       {
@@ -95,7 +95,79 @@
         "key": "Superstars are experience, highly rated hosts who are committed to providing great stars for guests",
         "location": {
           "startingColumn": 34,
-          "startingLine": 96
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Where you'll sleep",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bedroom %lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "What this place offers",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wifi",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 170
+        }
+      },
+      {
+        "comment": "",
+        "key": "Where you'll be",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "$500",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total before taxes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "Oct 15 - 25",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reserve",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 215
         }
       }
     ]

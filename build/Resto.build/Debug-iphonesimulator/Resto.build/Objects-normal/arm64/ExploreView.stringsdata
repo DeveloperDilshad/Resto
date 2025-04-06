@@ -1,16 +1,5 @@
 {
   "source": "/Users/dilshadp/Resto/Resto/Core/Explore/ExploreView.swift",
-  "tables": {
-    "Localizable": [
-      {
-        "comment": "",
-        "key": "Listing detial view for %lld",
-        "location": {
-          "startingColumn": 26,
-          "startingLine": 27
-        }
-      }
-    ]
-  },
+  "tables": {},
   "version": 1
 }
