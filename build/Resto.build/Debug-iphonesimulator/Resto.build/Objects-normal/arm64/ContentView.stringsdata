@@ -1,16 +1,5 @@
 {
   "source": "/Users/dilshadp/Resto/Resto/ContentView.swift",
-  "tables": {
-    "Localizable": [
-      {
-        "comment": "",
-        "key": "Hello, world!",
-        "location": {
-          "startingColumn": 18,
-          "startingLine": 16
-        }
-      }
-    ]
-  },
+  "tables": {},
   "version": 1
 }

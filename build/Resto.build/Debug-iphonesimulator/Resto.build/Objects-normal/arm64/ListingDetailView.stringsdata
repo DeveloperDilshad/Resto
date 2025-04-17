@@ -1,29 +1,21 @@
 {
-  "source": "/Users/dilshadp/Resto/Resto/Core/Listings/ListingDetailView.swift",
+  "source": "/Users/dilshadp/Resto/Resto/Core/Listings/Views/ListingDetailView.swift",
   "tables": {
     "Localizable": [
       {
         "comment": "",
-        "key": "Miami Villa",
-        "location": {
-          "startingColumn": 22,
-          "startingLine": 47
-        }
-      },
-      {
-        "comment": "",
-        "key": "Miami Florida",
+        "key": "%@, %@",
         "location": {
           "startingColumn": 26,
-          "startingLine": 67
+          "startingLine": 95
         }
       },
       {
         "comment": "",
-        "key": "4.86",
+        "key": "%lf",
         "location": {
           "startingColumn": 30,
-          "startingLine": 55
+          "startingLine": 83
         }
       },
       {
@@ -31,7 +23,7 @@
         "key": " - ",
         "location": {
           "startingColumn": 30,
-          "startingLine": 57
+          "startingLine": 85
         }
       },
       {
@@ -39,63 +31,47 @@
         "key": "28 reviews",
         "location": {
           "startingColumn": 30,
-          "startingLine": 59
-        }
-      },
-      {
-        "comment": "",
-        "key": "Entire Villa hosted by John Smith",
-        "location": {
-          "startingColumn": 26,
-          "startingLine": 79
-        }
-      },
-      {
-        "comment": "",
-        "key": "4 guests -",
-        "location": {
-          "startingColumn": 30,
-          "startingLine": 84
-        }
-      },
-      {
-        "comment": "",
-        "key": "4 bedrooms -",
-        "location": {
-          "startingColumn": 30,
-          "startingLine": 85
-        }
-      },
-      {
-        "comment": "",
-        "key": "4 beds -",
-        "location": {
-          "startingColumn": 30,
-          "startingLine": 86
-        }
-      },
-      {
-        "comment": "",
-        "key": "3 baths ",
-        "location": {
-          "startingColumn": 30,
           "startingLine": 87
         }
       },
       {
         "comment": "",
-        "key": "Superhost",
+        "key": "Entire %@ hosted by %@",
         "location": {
-          "startingColumn": 34,
+          "startingColumn": 26,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld guests -",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld bedrooms -",
+        "location": {
+          "startingColumn": 30,
           "startingLine": 113
         }
       },
       {
         "comment": "",
-        "key": "Superstars are experience, highly rated hosts who are committed to providing great stars for guests",
+        "key": "%lld beds -",
         "location": {
-          "startingColumn": 34,
-          "startingLine": 117
+          "startingColumn": 30,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld baths ",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 115
         }
       },
       {
@@ -103,7 +79,7 @@
         "key": "Where you'll sleep",
         "location": {
           "startingColumn": 22,
-          "startingLine": 133
+          "startingLine": 161
         }
       },
       {
@@ -111,7 +87,7 @@
         "key": "Bedroom %lld",
         "location": {
           "startingColumn": 38,
-          "startingLine": 142
+          "startingLine": 170
         }
       },
       {
@@ -119,15 +95,7 @@
         "key": "What this place offers",
         "location": {
           "startingColumn": 22,
-          "startingLine": 161
-        }
-      },
-      {
-        "comment": "",
-        "key": "Wifi",
-        "location": {
-          "startingColumn": 30,
-          "startingLine": 170
+          "startingLine": 189
         }
       },
       {
@@ -135,15 +103,15 @@
         "key": "Where you'll be",
         "location": {
           "startingColumn": 22,
-          "startingLine": 181
+          "startingLine": 209
         }
       },
       {
         "comment": "",
-        "key": "$500",
+        "key": "$%lld",
         "location": {
           "startingColumn": 30,
-          "startingLine": 200
+          "startingLine": 229
         }
       },
       {
@@ -151,7 +119,7 @@
         "key": "Total before taxes",
         "location": {
           "startingColumn": 30,
-          "startingLine": 204
+          "startingLine": 233
         }
       },
       {
@@ -159,7 +127,7 @@
         "key": "Oct 15 - 25",
         "location": {
           "startingColumn": 30,
-          "startingLine": 206
+          "startingLine": 235
         }
       },
       {
@@ -167,7 +135,7 @@
         "key": "Reserve",
         "location": {
           "startingColumn": 30,
-          "startingLine": 215
+          "startingLine": 244
         }
       }
     ]

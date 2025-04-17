@@ -1,0 +1,40 @@
+{
+  "source": "/Users/dilshadp/Resto/Resto/Core/Wishlist/WishListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Whislists",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log in to view your wishlist",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "You can create, view or edit once you've logged in",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Login",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      }
+    ]
+  },
+  "version": 1
+}

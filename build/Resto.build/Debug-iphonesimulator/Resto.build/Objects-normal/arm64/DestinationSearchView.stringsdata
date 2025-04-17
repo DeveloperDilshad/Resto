@@ -1,0 +1,72 @@
+{
+  "source": "/Users/dilshadp/Resto/Resto/Core/Explore/View/DestinationSearchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "where to?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search for places",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "When is your trip?",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "From",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "To",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Who is coming?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld Adults",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 138
+        }
+      }
+    ]
+  },
+  "version": 1
+}

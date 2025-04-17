@@ -34,6 +34,21 @@ extension DeveloperToolsSupport.ImageResource {
     /// The "listing-1" asset catalog image resource.
     static let listing1 = DeveloperToolsSupport.ImageResource(name: "listing-1", bundle: resourceBundle)
 
+    /// The "listing-10" asset catalog image resource.
+    static let listing10 = DeveloperToolsSupport.ImageResource(name: "listing-10", bundle: resourceBundle)
+
+    /// The "listing-11" asset catalog image resource.
+    static let listing11 = DeveloperToolsSupport.ImageResource(name: "listing-11", bundle: resourceBundle)
+
+    /// The "listing-12" asset catalog image resource.
+    static let listing12 = DeveloperToolsSupport.ImageResource(name: "listing-12", bundle: resourceBundle)
+
+    /// The "listing-13" asset catalog image resource.
+    static let listing13 = DeveloperToolsSupport.ImageResource(name: "listing-13", bundle: resourceBundle)
+
+    /// The "listing-14" asset catalog image resource.
+    static let listing14 = DeveloperToolsSupport.ImageResource(name: "listing-14", bundle: resourceBundle)
+
     /// The "listing-2" asset catalog image resource.
     static let listing2 = DeveloperToolsSupport.ImageResource(name: "listing-2", bundle: resourceBundle)
 
@@ -42,6 +57,21 @@ extension DeveloperToolsSupport.ImageResource {
 
     /// The "listing-4" asset catalog image resource.
     static let listing4 = DeveloperToolsSupport.ImageResource(name: "listing-4", bundle: resourceBundle)
+
+    /// The "listing-5" asset catalog image resource.
+    static let listing5 = DeveloperToolsSupport.ImageResource(name: "listing-5", bundle: resourceBundle)
+
+    /// The "listing-6" asset catalog image resource.
+    static let listing6 = DeveloperToolsSupport.ImageResource(name: "listing-6", bundle: resourceBundle)
+
+    /// The "listing-7" asset catalog image resource.
+    static let listing7 = DeveloperToolsSupport.ImageResource(name: "listing-7", bundle: resourceBundle)
+
+    /// The "listing-8" asset catalog image resource.
+    static let listing8 = DeveloperToolsSupport.ImageResource(name: "listing-8", bundle: resourceBundle)
+
+    /// The "listing-9" asset catalog image resource.
+    static let listing9 = DeveloperToolsSupport.ImageResource(name: "listing-9", bundle: resourceBundle)
 
     /// The "male-profile" asset catalog image resource.
     static let maleProfile = DeveloperToolsSupport.ImageResource(name: "male-profile", bundle: resourceBundle)
@@ -94,6 +124,51 @@ extension AppKit.NSImage {
 #endif
     }
 
+    /// The "listing-10" asset catalog image.
+    static var listing10: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing10)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-11" asset catalog image.
+    static var listing11: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing11)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-12" asset catalog image.
+    static var listing12: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing12)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-13" asset catalog image.
+    static var listing13: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing13)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-14" asset catalog image.
+    static var listing14: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing14)
+#else
+        .init()
+#endif
+    }
+
     /// The "listing-2" asset catalog image.
     static var listing2: AppKit.NSImage {
 #if !targetEnvironment(macCatalyst)
@@ -116,6 +191,51 @@ extension AppKit.NSImage {
     static var listing4: AppKit.NSImage {
 #if !targetEnvironment(macCatalyst)
         .init(resource: .listing4)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-5" asset catalog image.
+    static var listing5: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing5)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-6" asset catalog image.
+    static var listing6: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing6)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-7" asset catalog image.
+    static var listing7: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing7)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-8" asset catalog image.
+    static var listing8: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing8)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-9" asset catalog image.
+    static var listing9: AppKit.NSImage {
+#if !targetEnvironment(macCatalyst)
+        .init(resource: .listing9)
 #else
         .init()
 #endif
@@ -147,6 +267,51 @@ extension UIKit.UIImage {
 #endif
     }
 
+    /// The "listing-10" asset catalog image.
+    static var listing10: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing10)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-11" asset catalog image.
+    static var listing11: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing11)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-12" asset catalog image.
+    static var listing12: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing12)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-13" asset catalog image.
+    static var listing13: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing13)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-14" asset catalog image.
+    static var listing14: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing14)
+#else
+        .init()
+#endif
+    }
+
     /// The "listing-2" asset catalog image.
     static var listing2: UIKit.UIImage {
 #if !os(watchOS)
@@ -169,6 +334,51 @@ extension UIKit.UIImage {
     static var listing4: UIKit.UIImage {
 #if !os(watchOS)
         .init(resource: .listing4)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-5" asset catalog image.
+    static var listing5: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing5)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-6" asset catalog image.
+    static var listing6: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing6)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-7" asset catalog image.
+    static var listing7: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing7)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-8" asset catalog image.
+    static var listing8: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing8)
+#else
+        .init()
+#endif
+    }
+
+    /// The "listing-9" asset catalog image.
+    static var listing9: UIKit.UIImage {
+#if !os(watchOS)
+        .init(resource: .listing9)
 #else
         .init()
 #endif

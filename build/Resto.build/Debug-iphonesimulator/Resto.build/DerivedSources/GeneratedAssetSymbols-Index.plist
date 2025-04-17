@@ -20,6 +20,56 @@
 			<key>catalogPath</key>
 			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
 			<key>objcSymbol</key>
+			<string>ACImageNameListing10</string>
+			<key>relativePath</key>
+			<string>./listing-10.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing10</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing11</string>
+			<key>relativePath</key>
+			<string>./listing-11.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing11</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing12</string>
+			<key>relativePath</key>
+			<string>./listing-12.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing12</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing13</string>
+			<key>relativePath</key>
+			<string>./listing-13.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing13</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing14</string>
+			<key>relativePath</key>
+			<string>./listing-14.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing14</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
 			<string>ACImageNameListing2</string>
 			<key>relativePath</key>
 			<string>./listing-2.imageset</string>
@@ -45,6 +95,56 @@
 			<string>./listing-4.imageset</string>
 			<key>swiftSymbol</key>
 			<string>listing4</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing5</string>
+			<key>relativePath</key>
+			<string>./listing-5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing5</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing6</string>
+			<key>relativePath</key>
+			<string>./listing-6.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing6</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing7</string>
+			<key>relativePath</key>
+			<string>./listing-7.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing7</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing8</string>
+			<key>relativePath</key>
+			<string>./listing-8.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing8</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/dilshadp/Resto/Resto/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameListing9</string>
+			<key>relativePath</key>
+			<string>./listing-9.imageset</string>
+			<key>swiftSymbol</key>
+			<string>listing9</string>
 		</dict>
 		<dict>
 			<key>catalogPath</key>

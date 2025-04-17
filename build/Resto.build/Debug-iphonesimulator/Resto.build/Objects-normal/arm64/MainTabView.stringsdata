@@ -1,0 +1,32 @@
+{
+  "source": "/Users/dilshadp/Resto/Resto/Core/TabBar/MainTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Explore",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wishlist",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 26
+        }
+      }
+    ]
+  },
+  "version": 1
+}

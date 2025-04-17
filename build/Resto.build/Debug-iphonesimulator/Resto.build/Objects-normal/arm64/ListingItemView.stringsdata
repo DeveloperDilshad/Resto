@@ -1,13 +1,13 @@
 {
-  "source": "/Users/dilshadp/Resto/Resto/Core/Listings/ListingItemView.swift",
+  "source": "/Users/dilshadp/Resto/Resto/Core/Listings/Views/ListingItemView.swift",
   "tables": {
     "Localizable": [
       {
         "comment": "",
-        "key": "Miami, Florida",
+        "key": "%@, %@",
         "location": {
           "startingColumn": 26,
-          "startingLine": 31
+          "startingLine": 25
         }
       },
       {
@@ -15,7 +15,7 @@
         "key": "12 mi away",
         "location": {
           "startingColumn": 26,
-          "startingLine": 34
+          "startingLine": 28
         }
       },
       {
@@ -23,15 +23,15 @@
         "key": "Nov 3 - 10",
         "location": {
           "startingColumn": 26,
-          "startingLine": 37
+          "startingLine": 31
         }
       },
       {
         "comment": "",
-        "key": "$567",
+        "key": "$%lld",
         "location": {
           "startingColumn": 30,
-          "startingLine": 41
+          "startingLine": 35
         }
       },
       {
@@ -39,15 +39,15 @@
         "key": "night",
         "location": {
           "startingColumn": 30,
-          "startingLine": 43
+          "startingLine": 37
         }
       },
       {
         "comment": "",
-        "key": "4.86",
+        "key": "%lf",
         "location": {
           "startingColumn": 26,
-          "startingLine": 54
+          "startingLine": 48
         }
       }
     ]
